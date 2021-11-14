@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+}
+.header , .main{
+    margin: 20px auto;
+    width: 300px;
+}
+.block {
+    height: 70px;
+}
+.red {
+    background-color: red;
+}
+.green {
+    background-color: green;
+}
+.blue {
+    background-color: blue;
+}
+.yellow {
+    background-color: yellow;
+}
+.grey {
+    background-color: gray;
+}
+.black {
+    background-color: black;
+}
+.main-top {
+    width: 100px;
+    height: 70px;
+    float: left;
+}
+.main-mid {
+    width: 150px;
+    height: 70px;
+    float: left;
+}
+.main-bottom {
+    width: 80px;
+    height: 70px;
+    float: left;
+    border: 10px solid greenyellow;
+}
